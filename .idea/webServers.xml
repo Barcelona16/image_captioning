@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ad0509e6-c05f-4b23-89e6-a2b17c49c335" name="vcis2">
+        <fileTransfer rootFolder="/home/vcis2/Userlist/Wangqiwang/" accessType="SFTP" host="10.204.34.44" port="22" sshConfigId="456eb3f0-8c71-429f-9151-8d22b1f58aee" sshConfig="vcis2@10.204.34.44:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
